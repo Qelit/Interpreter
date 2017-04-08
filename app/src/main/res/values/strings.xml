@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interpreter</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Настройки</string>
+    <string name="history">История</string>
+    <string name="translate">Перевод</string>
+</resources>
